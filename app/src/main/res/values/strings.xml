@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">viewModel</string>
+    <string name="add_score">ADD SCORE</string>
+    <string name="add">ADD</string>
+    <string name="add_one">ADD ONE</string>
+    <string name="subtract_button">Subtract button</string>
+    <string name="score">score</string>
+    <string name="add_four_points">add four points</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
